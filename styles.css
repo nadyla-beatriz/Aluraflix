@@ -1,17 +1,17 @@
 body{
     color:rgb(0, 0, 0);
-background:rgb(250, 187, 249);
+background:rgb(255, 163, 253);
 }
 
 header {
     border-bottom: solid 2px rgb(225, 0, 255);
     padding: 20px;
     font-size: 32px;
-    color: rgb(251, 230, 253);
+    color: rgb(0, 0, 0);
 }
 
 section {
-    background: rgb(184,156,213);
+    background: rgb(197, 149, 248);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
